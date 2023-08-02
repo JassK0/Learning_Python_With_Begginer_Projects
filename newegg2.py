@@ -1,4 +1,4 @@
-#finds gpu price and link from user input
+#finds gpu price and link from user input, easily re-configurable for other items on different sites
 from bs4 import BeautifulSoup
 import requests
 import re
